@@ -119,7 +119,7 @@ The goal is to derive actionable business insights that can help improve custome
 ---
 
 ## 👨‍💻 Author
-**Shreyansh Jain**  
+**Abhinandan Shah**  
 Data Analyst | Python Enthusiast | Visualization & Insights  
 
 ---
